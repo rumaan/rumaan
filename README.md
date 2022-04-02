@@ -7,4 +7,4 @@
 - 🌱 Proud parent of 13 indoor plants (mostly succulents)
 - ⌨️ Recently, I've been into Mechanical Keyboards and Switches (trust me, the rabbit hole goes deep)
 
-Stay Hydated! Peace.✨✨
+Stay Hydrated! Peace.✨✨
