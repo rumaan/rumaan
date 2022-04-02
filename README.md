@@ -1,7 +1,7 @@
 ### Heya 👋
 
-- 🔭 I work on [Edumentors](https://edumentors.co.uk)
-- 🤤 I have a thing for micro animations or those tiny UI details that people generally don't notice or care about :|
+- 🔭 Currently building [Edumentors](https://edumentors.co.uk)
+- 🤤 I have a thing for micro animations and those tiny UI details that people generally don't notice or care about :|
 - 🤓 I occasionally write on [rumaan.dev](https://rumaan.dev)
 - 🎧 I like listening to Synth/Retrowave
 - 🌱 Proud parent of 13 indoor plants (mostly succulents)
